@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Flutter mobile developer</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slava-vl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slava-vl&layout=compact)](https://github.com/slava-vl/github-readme-stats)
